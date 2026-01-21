@@ -136,17 +136,23 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-<img width="18" height="1" src="https://dummyimage.com/18x1/000000/000000.png&text=+" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false" />
+<div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+
+<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false" />
+
+</div>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
 

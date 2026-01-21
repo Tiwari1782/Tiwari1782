@@ -134,12 +134,17 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img width="18" height="1" src="https://dummyimage.com/18x1/000000/000000.png&text=+" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false" />
+
+<br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
@@ -151,9 +156,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tiwari1782&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tiwari1782&theme=radical&no-frame=false&no-bg=true&margin-w=12" />
 
 </div>
+
+---
 
 ---
 

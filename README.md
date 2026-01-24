@@ -9,7 +9,6 @@
 </div>
 
 <h1 align="center">Undergraduate from CGC University Mohali pursuing BTech in Computer Science And Engineering</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, ML & Web Dev</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -29,9 +28,6 @@
 - 📧 How to reach me **prakashtiwarie06@gmail.com**
 - ⚡ I love web development!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-
 
 ## 🏆 Achievements & Recognition
 
@@ -43,7 +39,6 @@
 | **HackChrono 2025** | 🏅 Top 10 Finalist |
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ### 🏥 **OpsPulse**
 **OpsPulse is a smart web app for companies that have field workers, to track their work, incidents, and compliance automatically using AI.** | [🔗 GitHub](https://github.com/Tiwari1782/OpsPulse)
@@ -59,8 +54,6 @@
 - 📊 Real-time dashboards for compliance tracking and performance analytics
 - 💳 Subscription billing, secure payments, and audit-ready operational logs
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 
 ## 💼 Position of Responsibility
 
@@ -72,7 +65,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## 🛠️ Technical Skills
 
@@ -113,14 +105,11 @@
 - 💪 **Soft Skills:** Problem-Solving, Communication, Teamwork, Leadership
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 
 > *"If it means winning, I don't mind destroying my old self."*  
 > — **Isagi Yoichi**, *Blue Lock*
 
 **FIGHT NOT TO WIN BUT TO DOMINATE!!!**
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 ---
 
 ## 🌐 Connect with me:
@@ -128,23 +117,15 @@
 <a href="https://www.instagram.com/heree_prakash_/?__pwa=1"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="150"></a>
 <a href="https://www.linkedin.com/in/prakash-tiwari-8900bb2b2/"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![snake gif](https://github.com/Tiwari1782/Tiwari1782/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+📊 GitHub Stats:
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&show_icons=true&include_all_commits=true&count_private=true&theme=dark" width="400" height="200"/> </td> <td> <img src="https://streak-stats.demolab.com?user=Tiwari1782&theme=dark" width="400" height="200"/> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&layout=compact&theme=dark" width="820" height="200"/> </td> </tr> </table> </div>
 
 
 ## 🏆 GitHub Trophies
@@ -155,20 +136,15 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 🎭 Coding Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiwari1782&theme=tokyo-night" alt="Activity Graph" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <div align="center">

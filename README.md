@@ -140,7 +140,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://raw.githubusercontent.com/Tiwari1782/Tiwari1782/refs/heads/main/dist/github-snake-dark.svg)
+![snake gif](https://github.com/Tiwari1782/Tiwari1782/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 

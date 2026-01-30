@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Undergraduate from CGC University Mohali pursuing BTech in Computer Science And Engineering</h1>
-<h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, ML & Web Dev</h3>
+<h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, Web Dev & ML</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

@@ -40,19 +40,29 @@
 
 </div>
 
-### 🏥 **OpsPulse**
-**OpsPulse is a smart web app for companies that have field workers, to track their work, incidents, and compliance automatically using AI.** | [🔗 GitHub](https://github.com/Tiwari1782/OpsPulse)
+### 🏥 **WanderLust**
+**WanderLust is an Airbnb-style listings web application built with Node.js, Express, MongoDB/Mongoose, and EJS.** | [🔗 GitHub](https://github.com/Tiwari1782/WanderLust)
 
-**Tech Stack:**
-  **FrontEnd:** React, Vite, react-router-dom, API Calls, Axios, Tailwind CSS, Heroicons / FontAwesome
-  **BackEnd:** Node.js, Express.js, dotenv, modular express routes, JWT, custom service, express-validator
+## Tech Stack
 
-**Key Features:**
-- 🛠️ Field staff management with OTP-based login and role-based access
--📍 Job checklists with timestamps, geo-tagging, and proof-of-work
-- 🧠 AI-powered incident reporting, insights, and automated summaries
-- 📊 Real-time dashboards for compliance tracking and performance analytics
-- 💳 Subscription billing, secure payments, and audit-ready operational logs
+**FrontEnd:** EJS, EJS-Mate, Bootstrap 5, HTML, CSS, JavaScript  
+**BackEnd:** Node.js, Express.js, MongoDB, Mongoose, Joi, method-override, express-session
+
+## Key Features
+
+- 🏡 Full CRUD for listings (create, view, edit, delete)
+- 🎨 Responsive UI using EJS + EJS-Mate layouts + Bootstrap 5
+- 🖼️ Image URL support with default fallback image
+- 🔁 Method Override for PUT & DELETE via forms
+- ⚠️ Centralized error handling with `wrapAsync` + `ExpressError`
+
+- ⭐ Add reviews with rating (1–5) + comment
+- 🎚️ Interactive rating slider with live fill effect
+- ✅ Client-side + 🛡️ server-side validation (Bootstrap + Joi)
+- 🗑️ Delete individual reviews + `$pull` reference cleanup
+- ♻️ Cascade delete: deleting a listing removes all related reviews
+- 🕒 Auto timestamps for reviews (`createdAt`, `updatedAt`)
+
 
 
 ## 💼 Position of Responsibility

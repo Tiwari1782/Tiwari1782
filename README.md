@@ -49,21 +49,17 @@
 **BackEnd:** Node.js, Express.js, MongoDB, Mongoose, Joi, method-override, express-session
 
 ## Key Features
-
 - 🏡 Full CRUD for listings (create, view, edit, delete)
 - 🎨 Responsive UI using EJS + EJS-Mate layouts + Bootstrap 5
 - 🖼️ Image URL support with default fallback image
 - 🔁 Method Override for PUT & DELETE via forms
 - ⚠️ Centralized error handling with `wrapAsync` + `ExpressError`
-
 - ⭐ Add reviews with rating (1–5) + comment
 - 🎚️ Interactive rating slider with live fill effect
 - ✅ Client-side + 🛡️ server-side validation (Bootstrap + Joi)
 - 🗑️ Delete individual reviews + `$pull` reference cleanup
 - ♻️ Cascade delete: deleting a listing removes all related reviews
 - 🕒 Auto timestamps for reviews (`createdAt`, `updatedAt`)
-
-
 
 ## 💼 Position of Responsibility
 

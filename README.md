@@ -52,7 +52,7 @@
 
 | 🎯 Role | 🏢 Organization | 📅 Duration |
 |:--------|:---------------|:-----------|
-| **Bug2Build Tech Lead** | CGC UNIVERSITY MOHALI | Current |
+| **Bug2Build Tech Lead** | CGC UNIVERSITY MOHALI | 2025 |
 
 </div>
 

@@ -137,6 +137,93 @@
 - 🎯 **Owner-based Authorization** - Edit/delete permissions
 - 🗄️ **MongoDB Atlas** - Cloud database integration
 - 📱 **Responsive Design** - Mobile-friendly interface
+---
+
+### 🛡️ **AI Fraud Detection Dashboard** - Real-Time Transaction Monitoring System
+
+<div align="center">
+
+<a href="https://your-app-name.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Dashboard-2563eb?style=for-the-badge&labelColor=1e293b" alt="Live Demo" />
+</a>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/Fraud-Detection-Dashboard)
+[![Node.js](https://img.shields.io/badge/Node.js-v14+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+
+</div>
+
+#### 📝 Project Description
+**AI Fraud Detection Dashboard** is a real-time transaction monitoring platform built with Node.js + Express and MySQL. It detects suspicious transactions using a risk-scoring fraud engine, visualizes insights with interactive charts, supports bulk CSV analysis, and generates professional reports.
+
+#### 🛠️ Tech Stack
+
+**Frontend:**
+- EJS
+- Bootstrap 5
+- Chart.js
+- HTML5, CSS3, JavaScript
+- Font Awesome
+
+**Backend:**
+- Node.js, Express.js
+- MySQL, Sequelize ORM
+- Axios (AI / fraud scoring integration)
+- Nodemailer (email alerts)
+
+**Authentication & Security:**
+- bcryptjs (password hashing)
+- express-session (session-based auth)
+- dotenv (env management)
+- Protected routes + secure cookies
+
+**File & Report Processing:**
+- Multer (CSV uploads)
+- csv-parser (CSV parsing)
+- PDFKit (PDF reports)
+
+#### ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+**Core Functionality:**
+- 💳 Add & analyze transactions (instant fraud scoring)
+- 📊 Real-time KPI dashboard + charts (fraud rate, trends, device split)
+- 📥 Bulk CSV upload (1000+ records) with per-row error handling
+- 📤 Export reports (CSV / JSON / PDF) with filters
+- 📜 Audit trail (admin actions, timestamps, IP logs)
+
+</td>
+<td width="50%">
+
+**Advanced Features:**
+- 🤖 Multi-factor risk scoring (amount, time anomalies, device, location)
+- 🔴 High-risk alerts (threshold-based email notifications)
+- ⚙️ Configurable fraud threshold + email settings
+- 🔐 Secure admin authentication (bcrypt + sessions)
+- 🧰 Fallback logic when AI API is unavailable
+- 📱 Responsive UI (works on desktop & mobile)
+
+</td>
+</tr>
+</table>
+
+#### 🏗️ Architecture
+- **MVC Pattern** - Controllers, routes, models, services
+- **Services Layer** - Fraud scoring + email notifications
+- **Middleware** - Auth protection + audit logging
+- **RESTful Routes** - Clean endpoints for transactions, upload, export, settings
+
+#### 🌟 Project Highlights
+- 📦 **Production-ready structure** with modular backend folders
+- 📈 **Actionable insights** via interactive analytics dashboards
+- 🧪 **Built for scale** with bulk processing + optimized exports
+- 🛡️ **Security-first** approach (hashed passwords, protected routes, env secrets)
+- 🚀 **Deployable on Render + Railway (MySQL)**
 
 ---
 

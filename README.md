@@ -15,6 +15,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ![](https://komarev.com/ghpvc/?username=Tiwari1782&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://prakash-portfolio-nu.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%20Live%20Demo-Visit%20Portfolio-00d4ff?style=for-the-badge&labelColor=1a1a2e" alt="Live Demo" />
+</a>
 
 ---
 

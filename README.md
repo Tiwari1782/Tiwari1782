@@ -24,7 +24,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 **BTech CSE Student** at **CGC UNIVERSITY MOHALI** (2024-28)
-- 📊 **CGPA: 9.00** (till 2nd semester)
+- 📊 **CGPA: 9.43** (till 3rd semester)
 - 🏫 **Academic Background:**
   - **CBSE (2022-23):** Army Public School Nehru Road, Lucknow
   - **CBSE (2020-21):** Army Public School Nehru Road, Lucknow

@@ -1,23 +1,4 @@
-<p align="center">
-  <picture>
-    <!-- Light mode -->
-    <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Prakash+Tiwari;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" 
-      media="(prefers-color-scheme: light)"
-    />
-    
-    <!-- Dark mode -->
-    <source 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Prakash+Tiwari;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" 
-      media="(prefers-color-scheme: dark)"
-    />
-    
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Prakash+Tiwari;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" 
-      alt="Typing SVG" 
-    />
-  </picture>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋,+I'm+Prakash+Tiwari;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PRAKASH%20TIWARI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=From%20AI%20to%20APIs%20-%20I%20Build%2C%20Automate%2C%20and%20Innovate&descAlign=50&descAlignY=51" alt="header"/>

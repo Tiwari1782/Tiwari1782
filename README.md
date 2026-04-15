@@ -40,6 +40,7 @@
 
 | 🎯 Achievement | 🥇 Position/Recognition | 📅 Year |
 |:--------------|:------------------------|:--------|
+| **Ctrl + Build** | 🏅 7th Position | 2026 |
 | **Hack-N-Win 3.0** | 🏅 Top 10 Finalist | 2026 |
 | **GenAI Hackathon 2025** | 🏅 Top 8 Finalist | 2025 |
 | **HackChrono 2025** | 🏅 Top 10 Finalist | 2025 |

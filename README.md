@@ -355,10 +355,24 @@ Middle East escalation      →  Safe haven demand rising      →  BUY $GLD   (
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiwari1782&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<!-- ───────────────────────────────────────────────── -->
+<!--  🐍  Snake eats your contributions every day!    -->
+<!-- ───────────────────────────────────────────────── -->
+
+<h3>🐍 Watch the Snake Eat My Contributions!</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Tiwari1782/Tiwari1782/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tiwari1782/Tiwari1782/blob/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://github.com/Tiwari1782/Tiwari1782/blob/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---

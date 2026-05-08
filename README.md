@@ -45,7 +45,6 @@
 | **GenAI Hackathon 2025** | 🏅 Top 8 Finalist | 2025 |
 | **HackChrono 2025** | 🏅 Top 10 Finalist | 2025 |
 
-
 </div>
 
 ---
@@ -64,272 +63,187 @@
 
 ## 🚀 Featured Projects
 
-### ⚖️ **JurisBridge** - AI-Powered Legal Assistance Platform
-
-<div align="center">
-<a href="https://juris-bridge-my3w.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20JurisBridge-00d4ff?style=for-the-badge&labelColor=0D1B2A" alt="Live Demo" />
-</a>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/JurisBridge)
-[![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React_19-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-Real_Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-</div>
-
-#### 📝 Project Description
-
-**JurisBridge** is a comprehensive full-stack legal-tech platform built on the **MERN stack** that bridges the gap between citizens and legal professionals using AI. It features a multi-provider AI legal assistant (JurisPilot), a verified lawyer marketplace, real-time chat & video consultations, AI-powered document analysis, legal notice generation, and Razorpay-integrated payments — all in one platform.
-
-#### 🛠️ Tech Stack
-
-**Frontend:**
-- React 19, Vite 7
-- Tailwind CSS v4
-- Framer Motion (animations)
-- Zustand (state management)
-- Socket.io Client, React Router v7
-- Axios
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB, Mongoose ODM
-- Socket.io (real-time messaging)
-- JWT Authentication
-- Multer (file uploads), Cloudinary (cloud storage)
-- pdf-parse, mammoth (document extraction)
-
-**AI & Services:**
-- Anthropic Claude (Primary AI)
-- Google Gemini (Fallback 1)
-- OpenAI GPT (Fallback 2)
-- Razorpay (payments)
-- Twilio (SMS notifications)
-- Nodemailer (email alerts)
-- Google TTS + ElevenLabs (voice output)
-
-**Security:**
-- JWT + bcryptjs (auth & hashing)
-- SHA-256 (evidence integrity)
-- Helmet, CORS, rate limiting
-- Role-based protected routes
-- dotenv (env management)
-
-#### ✨ Key Features
-
-<table>
-<tr>
-<td width="50%">
-
-**Core Functionality:**
-- 🤖 JurisPilot AI — multi-provider legal assistant (Claude → Gemini → OpenAI fallback)
-- 👨‍⚖️ Lawyer Marketplace — browse & connect with verified lawyers by specialization, rating & fee
-- 📂 Case Management — create, track & manage legal cases with timeline & auto lawyer matching
-- 💬 Real-Time Chat — Socket.io messaging between users and lawyers with file attachments
-- 📄 AI Document Analysis — upload PDFs/DOCX and get instant AI risk analysis
-- 💳 Razorpay Payments — integrated payment gateway for consultations
-
-</td>
-<td width="50%">
-
-**Advanced Features:**
-- 📊 Confidence Scoring — AI rates its own answer confidence per response
-- 🚨 Smart Escalation — low-confidence queries auto-escalated to lawyers via email + SMS
-- 📜 Legal Notice Generator — AI-crafted legal notices with customizable parameters
-- 🎥 Video Calling — in-app video consultations between users and lawyers
-- 🗣️ Voice I/O — speech recognition & TTS in English and Hindi
-- 🌙 Dark/Light Theme — Zustand-powered toggle with system preference detection
-- 🔐 Evidence Integrity — SHA-256 hashing for tamper detection on uploaded evidence
-- 🛡️ Rate Limited — 30 AI requests per 15 min per IP
-
-</td>
-</tr>
-</table>
-
-#### 🏗️ Architecture
-
-- **MERN Stack** — React 19 (Vite) frontend + Express.js backend + MongoDB
-- **Multi-Provider AI Fallback** — Claude → Gemini → OpenAI (never fails)
-- **Real-Time Layer** — Socket.io for chat and live updates
-- **Services Layer** — AI scoring, notification dispatch, TTS synthesis
-- **Middleware** — JWT auth + role-based access (user / lawyer)
-- **RESTful API** — clean endpoints for cases, documents, lawyers, payments, notices
-
-#### 🌟 Project Highlights
-
-- 🤖 **Triple AI failover** — platform stays functional even if one or two providers go down
-- 📦 **Production-ready MERN structure** with modular controllers, routes, models & services
-- 🔐 **Security-first** — hashed passwords, JWT auth, SHA-256 evidence integrity, rate limiting
-- 🌐 **Multilingual** — English & Hindi support with voice input/output
-- 🚀 **Deployed on Vercel (frontend) + Render (backend + MongoDB Atlas)**
-
-### 🏡 **WanderLust** - Full-Stack Airbnb Clone
-
-<div align="center">
-
-<a href="https://wanderlust-menk.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20WanderLust-FF5A5F?style=for-the-badge&labelColor=484848" alt="Live Demo" />
-</a>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/WanderLust)
-[![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
-</div>
-
-#### 📝 Project Description
-**WanderLust** is a full-featured property rental platform inspired by Airbnb, built with the MERN stack. It demonstrates advanced web development concepts including authentication, authorization, image uploads, and interactive maps.
-
-#### 🛠️ Tech Stack
-
-**Frontend:**
-- EJS, EJS-Mate
-- Bootstrap 5
-- HTML5, CSS3, JavaScript
-- Starability (Star Ratings)
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB, Mongoose
-- Passport.js (Authentication)
-- Cloudinary (Image Hosting)
-- Mapbox (Maps & Geocoding)
-
-**Validation & Security:**
-- Joi (Server-side validation)
-- bcrypt (Password hashing)
-- express-session (Session management)
-- connect-flash (Flash messages)
-
-#### ✨ Key Features
-
-<table>
-<tr>
-<td width="50%">
-
-**Core Functionality:**
-- 🏡 Full CRUD for property listings
-- 🔐 User authentication & authorization
-- 🖼️ Image upload with Cloudinary
-- 🗺️ Interactive maps with Mapbox
-- 📍 Geocoding for address conversion
-
-</td>
-<td width="50%">
-
-**Advanced Features:**
-- ⭐ Star-based review system (1-5)
-- ✅ Client & server-side validation
-- 🎨 Responsive UI with Bootstrap 5
-- 🔁 Method override for RESTful routes
-- ♻️ Cascade delete for related data
-- 🕒 Automatic timestamps
-
-</td>
-</tr>
-</table>
-
-#### 🏗️ Architecture
-- **MVC Pattern** - Clean separation of concerns
-- **Express Router** - Organized routing structure
-- **Middleware** - Authentication, authorization, validation
-- **RESTful API** - Standard HTTP methods
-
-#### 🌟 Project Highlights
-- 📦 **Deployed on Render** - Live production environment
-- 🔒 **Secure Authentication** - bcrypt hashing with salting
-- 🎯 **Owner-based Authorization** - Edit/delete permissions
-- 🗄️ **MongoDB Atlas** - Cloud database integration
-- 📱 **Responsive Design** - Mobile-friendly interface
 ---
 
-### 🛡️ **AI Fraud Detection Dashboard** - Real-Time Transaction Monitoring System
+### ⚖️ JurisBridge — AI-Powered Legal Assistance Platform
+**`Feb 2026 – Mar 2026`**
 
 <div align="center">
 
-<a href="https://fraud-detection-dashboard-muan.onrender.com/dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Dashboard-2563eb?style=for-the-badge&labelColor=1e293b" alt="Live Demo" />
-</a>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/Fraud-Detection-Dashboard)
-[![Node.js](https://img.shields.io/badge/Node.js-v14+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+<a href="https://juris-bridge-my3w.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20JurisBridge-00d4ff?style=for-the-badge&labelColor=0D1B2A" alt="Live Demo" /></a>
+<a href="https://github.com/Tiwari1782/JurisBridge"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.io-Real_Time-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" /></a>
 
 </div>
 
-#### 📝 Project Description
-**AI Fraud Detection Dashboard** is a real-time transaction monitoring platform built with Node.js + Express and MySQL. It detects suspicious transactions using a risk-scoring fraud engine, visualizes insights with interactive charts, supports bulk CSV analysis, and generates professional reports.
+**JurisBridge** is a full-stack legal-tech platform on the MERN stack that bridges the gap between citizens and legal professionals using AI. It features a multi-provider AI legal assistant (JurisPilot), a verified lawyer marketplace, real-time chat & video consultations, AI-powered document analysis, legal notice generation, and integrated payments — all in one place.
 
 #### 🛠️ Tech Stack
 
-**Frontend:**
-- EJS
-- Bootstrap 5
-- Chart.js
-- HTML5, CSS3, JavaScript
-- Font Awesome
-
-**Backend:**
-- Node.js, Express.js
-- MySQL, Sequelize ORM
-- Axios (AI / fraud scoring integration)
-- Nodemailer (email alerts)
-
-**Authentication & Security:**
-- bcryptjs (password hashing)
-- express-session (session-based auth)
-- dotenv (env management)
-- Protected routes + secure cookies
-
-**File & Report Processing:**
-- Multer (CSV uploads)
-- csv-parser (CSV parsing)
-- PDFKit (PDF reports)
+| Layer | Technologies |
+|:------|:------------|
+| **Frontend** | React 19, Vite 7, Tailwind CSS v4, Framer Motion, Zustand, React Router v7 |
+| **Backend** | Node.js, Express.js, MongoDB, Socket.io, JWT Auth, Multer, Cloudinary |
+| **AI & Services** | Anthropic Claude → Google Gemini → OpenAI GPT (fallback chain), Razorpay, Twilio, Google TTS + ElevenLabs |
+| **Security** | JWT + bcryptjs, SHA-256 evidence integrity, Helmet, CORS, rate limiting |
 
 #### ✨ Key Features
 
-<table>
-<tr>
-<td width="50%">
+| Feature | Description |
+|:--------|:------------|
+| 🤖 **JurisPilot AI** | Multi-provider legal assistant with Claude → Gemini → OpenAI fallback — never goes down |
+| 👨‍⚖️ **Lawyer Marketplace** | Browse & connect with verified lawyers by specialization, rating & fee |
+| 📂 **Case Management** | Create, track & manage legal cases with timeline & auto lawyer matching |
+| 💬 **Real-Time Chat** | Socket.io messaging with file attachments between users and lawyers |
+| 📄 **AI Document Analysis** | Upload PDFs/DOCX for instant AI risk analysis |
+| 📊 **Confidence Scoring** | AI rates its own answer confidence per response; low-confidence queries auto-escalated via email + SMS |
+| 📜 **Legal Notice Generator** | AI-crafted legal notices with customizable parameters |
+| 🗣️ **Voice I/O** | Speech recognition & TTS in English and Hindi |
+| 🔐 **Evidence Integrity** | SHA-256 hashing for tamper detection on uploaded evidence |
 
-**Core Functionality:**
-- 💳 Add & analyze transactions (instant fraud scoring)
-- 📊 Real-time KPI dashboard + charts (fraud rate, trends, device split)
-- 📥 Bulk CSV upload (1000+ records) with per-row error handling
-- 📤 Export reports (CSV / JSON / PDF) with filters
-- 📜 Audit trail (admin actions, timestamps, IP logs)
+#### 🌟 Highlights
+- **Triple AI failover** — platform stays functional even if one or two providers are down
+- **Production-ready MERN** structure with modular controllers, routes, models & services
+- **Deployed on Vercel** (frontend) + **Render** (backend + MongoDB Atlas)
 
-</td>
-<td width="50%">
+---
 
-**Advanced Features:**
-- 🤖 Multi-factor risk scoring (amount, time anomalies, device, location)
-- 🔴 High-risk alerts (threshold-based email notifications)
-- ⚙️ Configurable fraud threshold + email settings
-- 🔐 Secure admin authentication (bcrypt + sessions)
-- 🧰 Fallback logic when AI API is unavailable
-- 📱 Responsive UI (works on desktop & mobile)
+### 🏦 Fortress Ledger — Enterprise Banking & Forensic Fraud Analytics Engine
+**`Mar 2026 – Apr 2026`**
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-#### 🏗️ Architecture
-- **MVC Pattern** - Controllers, routes, models, services
-- **Services Layer** - Fraud scoring + email notifications
-- **Middleware** - Auth protection + audit logging
-- **RESTful Routes** - Clean endpoints for transactions, upload, export, settings
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
 
-#### 🌟 Project Highlights
-- 📦 **Production-ready structure** with modular backend folders
-- 📈 **Actionable insights** via interactive analytics dashboards
-- 🧪 **Built for scale** with bulk processing + optimized exports
-- 🛡️ **Security-first** approach (hashed passwords, protected routes, env secrets)
-- 🚀 **Deployable on Render + Railway (MySQL)**
+</div>
+
+**Fortress Ledger** is an enterprise-grade banking and fraud analytics platform that moves the source of truth from the fragile application layer back into the hardened DBMS. Every critical operation — locking, auditing, fraud detection, loan underwriting — is enforced at the database level where it cannot be bypassed.
+
+> *"Every app lets you move data. Fortress Ledger ensures you never lose the truth."*
+
+#### 🛠️ Tech Stack
+
+| Layer | Technologies |
+|:------|:------------|
+| **Frontend** | React 18, Vite, Tailwind CSS, Recharts, Framer Motion |
+| **Backend** | Node.js, Express.js, mysql2/promise (async pooling), JWT HttpOnly cookies |
+| **Database** | MySQL 8.0 — Triggers, Stored Procedures, Views, Events, Spatial functions |
+
+#### ✨ Key Features
+
+| Feature | Description |
+|:--------|:------------|
+| ⚛️ **Atomic Transfer Engine** | `SERIALIZABLE` isolation + `FOR UPDATE` row-level locking; canonical lock ordering eliminates deadlocks mathematically |
+| 🔍 **Forensic Audit System** | Trigger-based JSON row-diffs (`old_value` / `new_value`) with SHA-256 chain hashing on every audit row — retroactive tampering is detectable |
+| 🌍 **Impossible-Travel Detection** | `trg_impossible_travel` trigger calculates speed between consecutive transaction GPS points; blocks transactions implying >1,200 km/h movement at the DB level |
+| 🤖 **Algorithmic Loan Underwriting** | Heuristic credit scoring from balance + 90-day volume; auto-deny below threshold, `PENDING` + admin sign-off above |
+| 📅 **Scheduled Recurring Transfers** | Cursor-based stored procedure fired by MySQL Event Scheduler every minute — zero app-layer involvement |
+| 📊 **Fraud War Room** | `vw_fraud_velocity` view + materialized `fraud_summary` table refreshed every 60 seconds; admin instant account freeze |
+| 📋 **Monthly Statement Engine** | `sp_generate_monthly_statement` cursor rebuilds running balance from full transaction history |
+
+#### 🌟 Highlights
+- All business logic enforced at the **database level** — impossible to bypass via API
+- Single `schema.sql` file bootstraps the entire DB: tables, triggers, procedures, views & events
+- `scratch_reset.js` drops and fully rebuilds the database for clean demo runs
+
+---
+
+### 🌐 VERIDIAN — Real-Time Geopolitical Intelligence + AI Trading Signals
+**`Apr 2026 – Present`**
+
+<div align="center">
+
+[![MERN Stack](https://img.shields.io/badge/Stack-MERN-00D4FF?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Groq AI](https://img.shields.io/badge/AI-Groq_Llama_3.1-00FF88?style=for-the-badge)](https://groq.com/)
+[![WebGL](https://img.shields.io/badge/WebGL-Globe.gl-7C3AED?style=for-the-badge)](https://globe.gl/)
+[![Free APIs](https://img.shields.io/badge/Cost-100%25_Free_APIs-F59E0B?style=for-the-badge)](/)
+
+</div>
+
+**VERIDIAN** is a real-time geopolitical intelligence command centre that automatically converts live world events into financial trading signals — the only platform of its kind to do so autonomously. Built entirely on free-tier APIs with $0 operational cost.
+
+> *"Right now, somewhere on Earth, a missile was just fired or a trade route just closed. A trader who knows in 30 seconds can make a fortune. A trader who finds out in 3 hours loses one. We built the 30-second version."*
+
+```
+Hormuz tensions escalating  →  Oil supply disruption likely  →  BUY $XOM   (confidence: 81%)
+China suspends rare earths  →  EV supply chain at risk       →  SELL $TSLA  (confidence: 74%)
+Middle East escalation      →  Safe haven demand rising      →  BUY $GLD   (confidence: 78%)
+```
+
+#### 🛠️ Tech Stack
+
+| Layer | Technologies |
+|:------|:------------|
+| **Frontend** | React 18, Vite, Tailwind CSS, Globe.gl (WebGL), Mapbox GL JS, Deck.gl, Recharts, Socket.io |
+| **Backend** | Node.js, Express.js, MongoDB Atlas, Socket.io |
+| **AI** | Groq LLaMA 3.1 (4-key rotation) → Google Gemini (fallback) |
+| **Data APIs** | GDELT, NewsAPI, OpenSky Network, yahoo-finance2, CoinGecko, ExchangeRate API, abuse.ch |
+
+#### ✨ Key Features
+
+| Feature | Description |
+|:--------|:------------|
+| 🤖 **GeoTrade AI Signal Engine** | Groq LLaMA 3.1 reads live GDELT events → outputs `BUY` / `HOLD` / `SELL` with confidence % and full reasoning in under 10 seconds |
+| 🌍 **Live 3D Geopolitical Globe** | WebGL globe with glowing severity-coded event dots, pulsing rings for CRITICAL events, military flight arc overlays, and click-to-AI-brief |
+| 📰 **Intelligence News Feed** | 150+ global sources aggregated with severity tagging, BREAKING badge, auto-refresh, and entity-linked country flags |
+| 🤖 **AI Country Briefs** | Click any country → 3-paragraph intelligence brief with stability score (0–100), top 3 risks, and outlook badge in under 2 seconds |
+| ✈️ **Military Flight Tracker** | Live OpenSky Network aircraft plotted as animated arcs; conflict proximity alerts and surge detection |
+| 🎮 **Wargame Simulator** | "What if Iran closes the Strait of Hormuz?" → AI cascading market impact analysis |
+| 📡 **Tension Ticker** | Scrolling alert bar of live geopolitical events — clicking any item flies the globe camera to the location |
+| 🔴 **Global Risk Index** | Composite real-time threat score aggregating all active events |
+
+#### Competitor Comparison
+
+| Capability | Conflictly | LiveUAMap | Bloomberg Terminal | **VERIDIAN** |
+|:-----------|:-----------:|:---------:|:-----------------:|:------------:|
+| 3D Interactive Globe | ✅ | ✅ | ❌ | ✅ |
+| AI Country Intelligence Briefs | ✅ | ❌ | ❌ | ✅ |
+| **Financial Trading Signals** | ❌ | ❌ | Manual | ✅ |
+| Military Flight Tracking | ❌ | ✅ | ❌ | ✅ |
+| Cyber Threat Globe Overlay | ❌ | ❌ | ❌ | ✅ |
+| Wargame Scenario Simulation | ❌ | ❌ | ❌ | ✅ |
+| **Annual Cost Per User** | Paid | Paid | **$24,000+** | **$0** |
+
+#### 🌟 Highlights
+- **4-key Groq rotation** with Gemini fallback — zero-downtime AI at all times
+- Built in **24 hours** using 30+ free APIs with zero mock data
+- **Deployed:** Vercel (frontend) + Railway (backend)
+
+---
+
+### 🏡 WanderLust — Full-Stack Airbnb Clone
+
+<div align="center">
+
+<a href="https://wanderlust-menk.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20WanderLust-FF5A5F?style=for-the-badge&labelColor=484848" alt="Live Demo" /></a>
+<a href="https://github.com/Tiwari1782/WanderLust"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo" /></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+
+</div>
+
+**WanderLust** is a full-featured property rental platform inspired by Airbnb, built with the MERN stack. Covers authentication, authorization, image uploads, interactive maps, and a star-based review system.
+
+#### 🛠️ Tech Stack
+
+| Layer | Technologies |
+|:------|:------------|
+| **Frontend** | EJS, EJS-Mate, Bootstrap 5, Starability |
+| **Backend** | Node.js, Express.js, MongoDB, Passport.js, Cloudinary, Mapbox |
+| **Security** | Joi validation, bcrypt, express-session, connect-flash |
+
+#### ✨ Key Features
+- Full CRUD for property listings with owner-based authorization (edit/delete permissions)
+- Interactive maps with Mapbox + geocoding for address conversion
+- Image upload via Cloudinary, star-based review system (1–5), responsive Bootstrap UI
+- Cascade delete for related data, automatic timestamps, RESTful routes via MVC pattern
 
 ---
 
@@ -472,11 +386,11 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%">
-  
+
   ### Thanks for visiting my profile! Have a great day! 🌟
-  
+
   ![](https://komarev.com/ghpvc/?username=Tiwari1782&color=blueviolet&style=for-the-badge)
-  
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

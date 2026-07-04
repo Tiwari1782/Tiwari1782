@@ -385,6 +385,13 @@ Middle East escalation      →  Safe haven demand rising      →  BUY $GLD   (
 </div>
 
 ---
+<div align="center">
+<a href="https://gitfut.com/Tiwari1782">
+  <img src="https://gitfut.com/Tiwari1782.png" alt="My GitFut card" width="320"/>
+</a>
+
+</div>
+---
 
 ## 🎯 Coding Philosophy
 
